@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # 📥 Load the dataset
-file_path = r"C:\Users\Anil U R\Downloads\_imbd rating - Sheet1.csv"
+file_path = r"C:\Users\file\Downloads\_imbd rating - Sheet1.csv"
 df = pd.read_csv(file_path)
 
 # 🔍 Basic Data Overview
